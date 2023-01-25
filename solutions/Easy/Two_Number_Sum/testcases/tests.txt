@@ -1,0 +1,82 @@
+Test 1: 
+{
+  "array": [3, 5, -4, 8, 11, 1, -1, 6],
+  "targetSum": 10
+}
+
+
+Test 2:
+{
+  "array": [4, 6],
+  "targetSum": 10
+}
+
+Test 3: 
+
+{
+  "array": [4, 6, 1],
+  "targetSum": 5
+}
+
+Test 4:
+
+{
+  "array": [4, 6, 1, -3],
+  "targetSum": 3
+}
+
+Test 5:
+
+{
+  "array": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+  "targetSum": 17
+}
+
+Test 6:
+
+{
+  "array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 15],
+  "targetSum": 18
+}
+ 
+Test 7:
+{
+  "array": [-7, -5, -3, -1, 0, 1, 3, 5, 7],
+  "targetSum": -5
+}
+
+
+Test 8:
+
+{
+  "array": [-21, 301, 12, 4, 65, 56, 210, 356, 9, -47],
+  "targetSum": 163
+}
+
+Test 9:
+
+{
+  "array": [-21, 301, 12, 4, 65, 56, 210, 356, 9, -47],
+  "targetSum": 164
+}
+
+Test 10:
+
+{
+  "array": [3, 5, -4, 8, 11, 1, -1, 6],
+  "targetSum": 15
+}
+
+Test 11:
+
+{
+  "array": [14],
+  "targetSum": 15
+}
+
+Test 12:
+
+{
+  "array": [15],
+  "targetSum": 15
+}
