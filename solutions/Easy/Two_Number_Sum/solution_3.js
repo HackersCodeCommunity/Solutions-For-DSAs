@@ -1,4 +1,4 @@
-// Due to the Quick sort Algorithm, the time complexity is O(log(n)) time
+// Due to the Quick sort Algorithm, the time complexity is O(nlog(n)) time
 // Space complexity: O(1) space
 
 function twoNumberSum(array, targetSum) {
