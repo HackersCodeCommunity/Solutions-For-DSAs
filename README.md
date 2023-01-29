@@ -20,4 +20,4 @@ The main branch will be for explanations of General Data structures and algorith
 
 The repo contains questions from [AlgoExpert](https://www.algoexpert.io) which as the time of the creation of this repo had 170 interview questions.
 
-Please Note: Every programming language will have their specific branch, for their seperate solutions !.
+## Please Note: Every programming language will have their specific branch, for their seperate solutions.
